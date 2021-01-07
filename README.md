@@ -5,7 +5,7 @@ This repository contains Brian Doheny's project submission for the Fundamentals 
 This repository contains the following three files:
 * README.md - this file you are currently reading.
 * Regression Project.ipynb - A Jupyter Notebook going through the steps of how to perform regression analysis on the turbine_output.csv dataset. Includes Linear Regression, Polynomial Regression, Decision Tree Regression and KNN Regression.
-* turbine_output.csv - A CSV file containing the the power output of a wind turbine at various windspeeds. This CSV was provided as part of the assignment, and no edits have been made to it since.
+* turbine_output.csv - A CSV file containing the power output of a wind turbine at various wind speeds. This CSV was provided as part of the assignment, and no edits have been made to it since.
 * .gitignore
 
 ## How to use Regression Project.ipynb
